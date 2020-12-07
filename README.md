@@ -1,0 +1,2 @@
+# Note
+This is something I published only for the sake of personal use in React projects. I don't own any code whatsoever. Infact, this is taken from [Hydrophobefireman's awesome library statedrive](https://github.com/hydrophobefireman/statedrive). Go checkout his repo. ok.
